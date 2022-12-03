@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Colette OSWALD
 ### I'm a student at the webacademie by EPITECH
 
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev)
-
+____________________________________________________
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leily&theme=tokyonight)
 
