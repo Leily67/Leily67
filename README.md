@@ -9,3 +9,6 @@ ____________________________________________________
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leily67&theme=radical)
 ____________________________________________________
 
+Front-End Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
