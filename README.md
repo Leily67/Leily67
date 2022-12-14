@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Colette OSWALD
-### I'm a student at the webacademie by EPITECH
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C118F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Colette+OSWALD;I'm+a+student+at+the+webacademie+by+EPITECH)](https://git.io/typing-svg)
 
 ____________________________________________________
 
@@ -13,31 +12,26 @@ ____________________________________________________
 Front-End Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
-____________________________________________________
 
 
 Back-End Skills
 
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel)](https://skillicons.dev)
-____________________________________________________
 
 
 Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-____________________________________________________
 
 
 Git
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-____________________________________________________
 
 
 Graphism
 
 [![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
-____________________________________________________
 
 
 Other
