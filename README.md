@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C118F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Colette+OSWALD;I'm+a+student+at+the+webacademie+by+EPITECH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C118F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Colette;I'm+a+student+at+Epitech+School;in+web+development)](https://git.io/typing-svg)
 
 ____________________________________________________
 
