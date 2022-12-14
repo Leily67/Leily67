@@ -37,3 +37,10 @@ Graphism
 Other
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,arduino,unity)](https://skillicons.dev)
+
+____________________________________________________
+Take a look at my repositories and let's get in touch!
+<p align="center">
+<a href= "https://github.com/Leily67/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/colette-oswald/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
+</p>
