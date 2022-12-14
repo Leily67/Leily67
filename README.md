@@ -1,4 +1,4 @@
-<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C118F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Colette+OSWALD;I'm+a+student+at+the+webacademie+by+EPITECH)](https://git.io/typing-svg)
 
 ____________________________________________________
@@ -44,4 +44,4 @@ Take a look at my repositories and let's get in touch!
 
 <a href= "https://github.com/Leily67/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/colette-oswald/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
-</p>
+
