@@ -36,7 +36,7 @@ ____________________________________________________
 
 Graphism
 
-[![My Skills](https://skillicons.dev/icons?i=ps,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
 ____________________________________________________
 
 
