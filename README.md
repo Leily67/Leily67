@@ -12,7 +12,7 @@ ____________________________________________________
 
 Front-End Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue)](https://skillicons.dev)
 
 
 Back-End Skills
