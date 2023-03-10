@@ -6,7 +6,7 @@
 <div align="left">
   <h3>👨🏽‍💻 About me:</h3>
   <p>I'm currently learning : <i>Front-end development with <b>VueJS and Typescript</b>, trying to get my first professional experience as a developer.
-    I'm following on a sandwich course at the Epitech webacademy in Strasbourg.</i></p>
+    I'm following on a part-time course at the Epitech webacademy in Strasbourg.</i></p>
  </div><br>
 <div align="center">
   
