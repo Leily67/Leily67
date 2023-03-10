@@ -16,7 +16,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leily67&theme=radical)
   
 </div>
-____________________________________________________
+
+##
 <h3 align="left">Languages and Tools:</h3>
 <br>
 
@@ -35,9 +36,9 @@ ____________________________________________________
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-____________________________________________________
+##
 <h3 align="left">Take a look at my repositories and let's get in touch!</h3>
 
-<a href= "https://github.com/Leily67?tab=repositories"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/colette-oswald/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/>
+<a href= "https://github.com/Leily67?tab=repositories"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
+<a href= "https://www.linkedin.com/in/colette-oswald/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
