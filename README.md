@@ -9,11 +9,13 @@
     I'm following on a part-time course at the Epitech webacademy in Strasbourg.</i></p>
  </div><br>
 <div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leily67&theme=radical)
 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leily67&theme=radical&layout=compact)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leily67&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=leily67&theme=radical)
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leily67&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leily67&theme=radical)
   
 </div>
 
@@ -40,5 +42,8 @@
 <h3 align="left">Take a look at my repositories and let's get in touch!</h3>
 
 <a href= "https://github.com/Leily67?tab=repositories"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
-<a href= "https://www.linkedin.com/in/colette-oswald/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<a href= "https://www.linkedin.com/in/colette-oswald/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <br/>
+<br/>
+![](https://komarev.com/ghpvc/?username=leily67&style=flat-square)
 
+![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
