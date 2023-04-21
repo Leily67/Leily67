@@ -8,15 +8,24 @@
   <p>I'm currently learning : <i>Front-end development with <b>VueJS and Typescript</b>, trying to get my first professional experience as a developer.
     I'm following on a part-time course at the Epitech webacademy in Strasbourg.</i></p>
  </div><br>
+
+  
+# **📈 Stats**
+Here are the statistics for my profile on Github.
+
 <div align="center">
+    <picture>
+        <img src="https://streak-stats.demolab.com?user=leily67&hide_border=true&background=00000000&theme=radical" height="220px"/>
+    </picture>
+</div>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leily67&theme=radical&layout=compact)<br/>
-<img style="margin-top: 10px;" align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leily67&theme=radical">
-<img style="margin-top: 10px;" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=leily67&theme=radical">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leily67&theme=radical)
-  
+<div align="center">
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api?username=leily67&show_icons=true&count_private=true&custom_title=Kastney's%20GitHub%20Stats&hide_border=true&theme=radical&bg_color=00000000&hide=issues" height="150px"/>
+    </picture>
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leily67&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=radical&bg_color=00000000" height="150px"/>
+    </picture>
 </div>
 
 ##
