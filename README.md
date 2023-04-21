@@ -22,7 +22,7 @@ Here are the statistics for my profile on Github.
 
 <div align="center">
     <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=leily67&show_icons=true&count_private=true&custom_title=Leily's%20GitHub%20Stats&hide_border=true&theme=radical&bg_color=00000000&hide=issues" height="150px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=leily67&show_icons=true&count_private=true&custom_title=Leily's%20GitHub%20Stats&hide_border=true&theme=radical&bg_color=00000000&hide=issues" height="180px"/>
     </picture>
     <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leily67&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=radical&bg_color=00000000" height="180px"/>
