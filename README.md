@@ -4,9 +4,10 @@
 <div align="center"><i> Welcome to my Github profile </i></div><br>
 
 <div align="left">
-  <h3>👨🏽‍💻 About me:</h3>
+  <h3 >👨🏽‍💻 About me:</h3>
   <p>I'm currently learning : <i>Front-end development with <b>VueJS and Typescript</b>, trying to get my first professional experience as a developer.
     I'm following on a part-time course at the Epitech webacademy in Strasbourg.</i></p>
+  <p>On my Github profile, you'll find some of my public projects<p>
  </div><br>
 
   
@@ -28,8 +29,7 @@ Here are the statistics for my profile on Github.
     </picture>
 </div>
 
-##
-<h3 align="left">Languages and Tools:</h3>
+# **🏅 Languages and Tools**
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
