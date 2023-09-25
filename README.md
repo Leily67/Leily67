@@ -5,7 +5,8 @@
 
 <div align="left">
   <h3 >👨🏽‍💻 About me:</h3>
-
+  <p>I'm currently learning : <i>Front-end development with <b>VueJS and Typescript</b>
+  </br>
     <p>Based in Strasbourg, I recently graduated from Epitech's Webacademy, where I gained a strong foundation in web development and computer science.</p>
   Currently, I am pursuing my studies as a master's student (MSc PRO) at Epitech for a duration of three years, in an alternating work-study program. My study program focuses on project management, allowing me to blend my technical skills with expertise in management to create efficient software solutions.</i></p>
   <p>On my Github profile, you'll find some of my public projects<p>
