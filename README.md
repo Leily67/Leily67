@@ -7,7 +7,7 @@
   <h3 >👨🏽‍💻 About me:</h3>
   <p>I'm currently learning : <i>Front-end development with <b>VueJS and Typescript</b>, trying to get my first professional experience as a developer.
   </br>
-    Basé à Strasbourg, j'ai récemment obtenu mon diplôme à Webacadémie d'Epitech, où j'ai acquis une solide base en développement web et en informatique.
+    <p>Basé à Strasbourg, j'ai récemment obtenu mon diplôme à Webacadémie d'Epitech, où j'ai acquis une solide base en développement web et en informatique.</p>
   Actuellement, je poursuis mes études en tant qu'étudiante en master (MSC PRO) sur une durée de trois ans, en alternance. Mon programme d'études est axé sur la gestion de projet, ce qui me permet de combiner mes compétences techniques avec une expertise en gestion pour créer des solutions logicielles efficaces</i></p>
   <p>On my Github profile, you'll find some of my public projects<p>
  </div><br>
