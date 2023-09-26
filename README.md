@@ -57,6 +57,6 @@ Here are the statistics for my profile on Github.
 <a href= "https://github.com/Leily67?tab=repositories"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </a>
 <a href= "https://www.linkedin.com/in/colette-oswald/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <br/>
 <br/>
-![](https://komarev.com/ghpvc/?username=leily67&style=flat-square)
+
 
 ![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
