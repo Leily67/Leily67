@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <br/>
 <div align="center"><b><h1> Hey! I'm Colette </h1></b></div><br>
 <div align="center"><i> Welcome to my Github profile </i></div><br>
