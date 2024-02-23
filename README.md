@@ -23,7 +23,7 @@
 
 👩‍🏫  Student at Epitech Strasbourg
 
-👩‍💻  I’m currently working at [Alsacreations](https://www.aslacreations.fr/)
+👩‍💻  I’m currently working at [Alsacreations](https://www.alsacreations.fr/)
 
 🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
