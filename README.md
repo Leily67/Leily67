@@ -1,37 +1,40 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-<br/>
-<div align="center"><b><h1> Hey! I'm Colette </h1></b></div><br>
-<div align="center"><i> Welcome to my Github profile </i></div><br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hello&fontSize=60&fontColor=F5EEE6"/>
+</p>
 
-<div align="left">
-  <h3 >👨🏽‍💻 About me:</h3>
-  <p>I'm currently learning : <i>Front-end development with <b>VueJS and Typescript</b>
-  </br>
-    <p>Based in Strasbourg, I recently graduated from Epitech's Webacademy, where I gained a strong foundation in web development and computer science.</p>
-  Currently, I am pursuing my studies as a master's student (MSc PRO) at Epitech for a duration of three years, in an alternating work-study program. My study program focuses on project management, allowing me to blend my technical skills with expertise in management to create efficient software solutions.</i></p>
-  <p>On my Github profile, you'll find some of my public projects<p>
- </div><br>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/colette-oswald/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+</p>
 
-  
-# **📈 Stats**
-Here are the statistics for my profile on Github.
+## **Short intro**
+<table align=center style="border:none">
+<tr>
+  <td style="vertical-align: top">
+    <img width="300" alt="hello!" src="https://media1.tenor.com/images/72c9b849aa10b222371ebb99a6b1896a/tenor.gif" >
+  </td>
+  <td>
+  </td>
+  <td>
 
-<div align="center">
-    <picture>
-        <img src="https://streak-stats.demolab.com?user=leily67&hide_border=true&background=00000000&theme=radical" height="220px"/>
-    </picture>
-</div>
+👩‍🏫  Student at Epitech Strasbourg
 
-<div align="center">
-    <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=leily67&show_icons=true&count_private=true&custom_title=Leily's%20GitHub%20Stats&hide_border=true&theme=radical&bg_color=00000000&hide=issues" height="180px"/>
-    </picture>
-    <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leily67&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=radical&bg_color=00000000&hide=php,html" height="180px"/>
-    </picture>
-</div>
+👩‍💻  I’m currently working at [Alsacreations](https://www.aslacreations.fr/)
 
-# **🏅 Languages and Tools**
+🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
+
+😻  Loving cats, 🌳 Forests
+
+  </td>
+</tr>
+</table>
+
+
+## **🛠️ Languages and Tools**
 <br>
 
 
@@ -49,11 +52,27 @@ Here are the statistics for my profile on Github.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<br>  
 
-##
+## **📈 Stats**
 
-<a href= "https://www.linkedin.com/in/colette-oswald/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <br/>
-<br/>
+<div align="center">
+    <picture>
+        <img src="https://streak-stats.demolab.com?user=leily67&hide_border=true&background=00000000&theme=radical" height="220px"/>
+    </picture>
+</div>
+
+<div align="center">
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api?username=leily67&show_icons=true&count_private=true&custom_title=Leily's%20GitHub%20Stats&hide_border=true&theme=radical&bg_color=00000000&hide=issues" height="180px"/>
+    </picture>
+    <picture>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leily67&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=radical&bg_color=00000000&hide=php,html" height="180px"/>
+    </picture>
+</div>
 
 
-![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontSize=60&fontColor=F5EEE6&section=footer"/>
+</p>
