@@ -7,7 +7,8 @@
 </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/colette-oswald/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="70" src="https://github.com/Leily67/Leily67/assets/80968016/9f4e0f00-cefa-4491-b8ff-2639477e4f71"/>
+
 </a>
 </p>
 
