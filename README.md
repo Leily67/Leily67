@@ -35,7 +35,7 @@
 </table>
 
 
-## **🛠️ Languages and Tools**
+## **<img height="45" src="https://github.com/Leily67/Leily67/assets/80968016/70b5848b-9e86-4c18-b400-e96e206daa9c"/> Languages and Tools**
 <br>
 
 
@@ -55,7 +55,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 <br>  
 
-## **📈 Stats**
+## **<img height="45" src="https://github.com/Leily67/Leily67/assets/80968016/fe9c4779-a2b6-44a8-8553-873b8db1dcf7"/> Stats**
 
 <div align="center">
     <picture>
