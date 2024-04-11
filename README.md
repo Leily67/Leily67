@@ -24,7 +24,7 @@
 
 👩‍🏫  Student at Epitech Strasbourg
 
-👩‍💻  I’m currently working at [Alsacreations](https://www.alsacreations.fr/)
+👩‍💻  I’m currently working at [2am Software](https://www.2amsoftware.com/)
 
 🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
