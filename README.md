@@ -24,9 +24,9 @@
 
 👩‍🏫  Currently a Pre-MSC student at Epitech Strasbourg
 
-🎓  Graduate of the Webacademie at Epitech Strasbourg
-
 👩‍💻  I’m currently working at [2am Software](https://www.2amsoftware.com/)
+
+🎓  Graduate of the Webacademie at Epitech Strasbourg
 
 🎮  Anime, board & video game enthusiast 🤓 overall geek 👩🏻‍🎤
 
