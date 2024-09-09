@@ -48,22 +48,7 @@
 
 <br>  
 
-## **<img height="30" src="https://github.com/Leily67/Leily67/assets/80968016/fe9c4779-a2b6-44a8-8553-873b8db1dcf7"/> Stats**
 
-<div align="center">
-    <picture>
-        <img src="https://streak-stats.demolab.com?user=leily67&hide_border=true&background=00000000&theme=radical" height="220px"/>
-    </picture>
-</div>
-
-<div align="center">
-    <picture>
-        <img src="https://github-readme-stats.vercel.app/api?username=leily67&show_icons=true&count_private=true&custom_title=Leily's%20GitHub%20Stats&hide_border=true&theme=radical&bg_color=00000000&hide=issues" height="180px"/>
-    </picture>
-    <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leily67&layout=compact&hide_border=true&langs_count=10&exclude_repo=TIMEG&theme=radical&bg_color=00000000&hide=php,html" height="180px"/>
-    </picture>
-</div>
 
 
 
