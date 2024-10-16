@@ -22,7 +22,7 @@
   </td>
   <td>
 
-👩‍🏫  Currently a Pre-MSC student at Epitech Strasbourg
+👩‍🏫  Currently a MSC-1 student at Epitech Strasbourg
 
 👩‍💻  I’m currently working at [2am Software](https://www.2amsoftware.com/)
 
