@@ -22,9 +22,9 @@
   </td>
   <td>
 
-👩‍🏫  Currently a MSC-1 student at Epitech Strasbourg
+👩‍🏫  Currently a MSC-2 student at Epitech Strasbourg
 
-👩‍💻  I’m currently working at [2am Software](https://www.2amsoftware.com/)
+👩‍💻  I’m currently working at [AFEDIM](https://www.afedim.fr/fr/index.html)
 
 🎓  Graduate of the Webacademie at Epitech Strasbourg
 
