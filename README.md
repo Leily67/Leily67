@@ -24,7 +24,7 @@
 
 👩‍🏫  Currently a MSC-2 student at Epitech Strasbourg
 
-👩‍💻  I’m currently working at [AFEDIM](https://www.afedim.fr/fr/index.html)
+👩‍💻  I’m currently working at [Crédit Mutel Immobilier](https://www.creditmutuel-immobilier.fr/fr/index.html)
 
 🎓  Graduate of the Webacademie at Epitech Strasbourg
 
